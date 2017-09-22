@@ -5,7 +5,7 @@
     <header>
   <div class="wrapper">
     <div class="logo">
-      <img src="../img/kopitl.png" alt="KOPITL" class="img-responsive">
+      <img src="../img/palik.png" alt="Palik" class="img-responsive">
     </div>
     <nav>
       <a class="select" href="../index.php">INICIO</a>
@@ -19,141 +19,67 @@
     </div>
   </div>
 </header>
+
 <div class="banner2">
-  <div class="fondo">
-    <h2 class="text-center" style="color: #fff; margin-top: 6%;">GRUPO COMERCIAL KOPITL</h2>
-    <p class="text-center" style="color: #fff; margin-top: 1%;">Siempre Buscaremos la satisfación del cliente</p>
-  </div>
-</div>
-
-<div class="section contenido wrapper">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-center new-font-nos" style="color:#8DC04D; ">¿POR QUÉ ELEGIR GRUPO COMERCIAL KOPITL?</h2> <br><br>
-            <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-12 col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-money fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-xs-12 col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Ahorro económico</h3>
-            
-          </div>
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-user fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Acceso a clientes</h3>
-            
-          </div>
-        </div> <br>
-        <div class="row">
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-archive fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Acceso a la información</h3>
-            
-          </div>
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-usd fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4 text-center">
-            <h3 class="text-left center-fonts">Reducción de costos</h3>
-            
-          </div>
-        </div> <br>
-        <div class="row">
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-cogs fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Eficiencia administrativa</h3>
-          </div>
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-clock-o fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Optimización de tiempos</h3>
-            
-          </div>
-        </div> <br>
-        <div class="row">
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-briefcase fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Transparencia corporativa</h3>
-            
-          </div>
-          <div class="col-sm-2 col-md-2 text-right center-fonts">
-            <i class="fa fa-cubes fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left center-fonts">Administración eficiente</h3>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-  <div class="banner3">
-    <div class="fondo">
-      <p class="texto">OPTIMIZAMOS TU CONTABILIDAD Y ADMINISTRACION <br> PARA QUE TU NO TENGAS QUE PREOCUPARTE.</p>
-    </div>
-  </div>
-    
-    <div class="section contenido wrapper">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-center new-font-nos" style="color:#8DC04D; ">GRUPO COMERCIAL KOPITL</h2> <br><br>
-            <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
-            <i class="fa fa-user fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left sub-nos-center">Quienes somos</h3>
-            <p class="info-nos">En GRUPO COMERCIAL KOPITL ofrecemos soluciones integrales de acuerdo a sus necesidades, con servicios innovadores y con capacitaciones constantes al personal. En GRUPO COMERCIAL KOPITL siempre buscamos la mejor calidad, rentabilidad y confianza en nuestros servicios, para alcanzar siempre la satisfacción total de nuestro cliente.</p>
-          </div>
-          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
-            <i class="fa fa-users fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left sub-nos-center">¿Qué tipo de profesionistas puedo buscar y contactar KOPITL?</h3>
-            <p class="info-nos">Actualmente, el alcance de KOPITL está enfocado en servicios de abogados, auditores, administradores, contadores públicos y otros jurídicos, tales como notarios públicos, corredores públicos, agentes aduanales, peritos, gestores, fiduciarias, jueces del registro civil y valuadores. Sin embargo, KOPITL se encuentra en constante crecimiento de los sectores y áreas de práctica para beneficio de nuestros clientes.</p>
-          </div>
-        </div> <br>
-        <div class="row">
-          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
-            <i class="fa fa-briefcase fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4">
-            <h3 class="text-left sub-nos-center">¿Cómo empiezo a trabajar con KOPITL?</h3>
-            <p class="info-nos">Muy sencillo!! Sólo debes dar click en contáctanos y empezarás con tu registro; únicamente tienes que llenar un formulario con información general para empezar a trabajar en conjunto con KOPITL.</p>
-          </div>
-          <div class="col-sm-2 col-md-2 text-right fonts-centrado">
-            <i class="fa fa-unlock-alt fa-5x"  aria-hidden="true"></i>
-          </div>
-          <div class="col-sm-4 col-md-4 text-center">
-            <h3 class="text-left sub-nos-center">¿Mi información es confidencial?</h3>
-            <p class="info-nos">Absolutamente, toda la información proporcionada a KOPITL es confidencial y protegida bajo nuestro Aviso de Privacidad; eventualmente, únicamente se compartirá la información necesaria con el especialista elegido que desees contactar.</p>
-          </div>
-        </div> <br>
+    <div class="fondo1">
+      <div class="wrapper">
+        <h1 style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1>
         
-     
+        <p class="text-center textob">Caracterizados por procurar a nuestros clientes un servicio personalizado, <br>confiable y eficaz atendiendo sus necesidades contables,<br> fiscales, administrativas, financieras y de auditoría.</p>
+      <div style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
+        <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
       </div>
-      <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
-      <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
+      </div>
     </div>
+  </div>
+
+<section class="contenido wrapper">
+<p class="texto">Somos una empresa que trabaja de manera cercana con los clientes, nos sentimos cómodos trabajando con la gente en sus procesos y conociendo los detalles de la operación y del negocio.</p> <br><br><br><br>
+
+        <div class="row">
+          <div class="col-md-5 col-md-offset-1">
+            <h2 style="color: #84183B;">¿Que valoramos?</h2> <br>
+            <p class="texto2">La interacción abierta, el trabajo en conjunto y nos interesa formar un equipo orientado a mejorar los procesos de las empresas que atendemos. Nos entusiasma ayudar a las empresas a que su personal adopte los nuevos procesos y tengan un crecimiento profesional en sus labores diarias.</p>
+            <p class="texto2">Contamos con experiencia en: <br> <br>
+            *Contabilidad <br>
+            *Administración <br>
+            *Auditorias <br>
+            *Juridico</p>
+          </div>
+          <div class="col-md-6 imagen">
+            <img src="../img/nosotros.jpg"
+            class="img-responsive">
+          </div>
+        </div>
+</section>
+
+<section class=" contenido2 hola">
+<h1></h1>
+  <div class="wrap">
+    <ul class="tabs">
+    <li><a href="#tab1"><span class="fa fa-eercast" aria-hidden="true"></span> <span class="tabs-text">MISION</span></a></li>
+    <li><a href="#tab2"><span class="fa fa-eercast" aria-hidden="true"></span> <span class="tabs-text">VISION</span></a></li>
+    <li><a href="#tab3"><span class="fa fa-eercast" aria-hidden="true"></span> <span class="tabs-text">VALORES</span></a></li>
+    </ul>
+
+    <div class="secciones">
+    <article id="tab1">Brindar a nuestros clientes servicios en el cumplimiento de obligaciones Fiscales, Contables y Administrativas, proporcionando los servicios de Consultoría y la Asesoría Fiscal; siempre con un alto nivel de experiencia profesional, conocimiento y compromiso.</article>
+    <article id="tab2">Continuar como empresa pionera satisfaciendo las necesidades de nuestros clientes con la más alta calidad y a cumplir en forma veraz y en apego a las leyes vigentes los propósitos establecidos en los proyectos de trabajo.</article>
+    <article id="tab3">
+    Trabajo en equipo <br>
+      Responsabilidad <br>
+      Honestidad <br>
+      Eficiencia <br>
+      Respeto <br>
+      Calidad
+      </article>
     </div>
+  </div>
+  <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+      <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
+    </div>
+         
+</section>
     
 
 
@@ -166,6 +92,7 @@
 <script src="../js/menupegajoso.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/botonarriba.js"></script>
+<script src="../js/main.js"></script>
 <script src="../js/eskju.jquery.scrollflow.min.js"></script>
 </body>
 </html>

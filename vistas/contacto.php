@@ -5,7 +5,7 @@
      <header>
   <div class="wrapper">
     <div class="logo">
-      <img src="../img/kopitl.png" alt="KOPITL" class="img-responsive">
+      <img src="../img/palik.png" alt="Palik" class="img-responsive">
     </div>
     <nav>
       <a class="select" href="../index.php">INICIO</a>
@@ -19,87 +19,121 @@
     </div>
   </div>
 </header>
-<div class="banner4">
-  <div class="fondo">
-    <h2 class="text-center" style="color: #fff; margin-top: 6%;">CONTACTANOS</h2>
-    <p class="text-center" style="color: #fff; margin-top: 1%;">En caso de cualquier pregunta o comentario adicional, también puedes encontrarnos en los siguientes datos de contacto:</p>
+<br><br>
+
+<div class="container animated fadeIn">
+
+  <div class="row">
+    <h1 class="header-title"> Contactanos, estamos para servirte</h1>
+    <hr> <br><br>
+    <div class="col-sm-12" id="parent">
+      <div class="col-sm-6">
+      <iframe width="100%" height="320px;" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJaY32Qm3KWTkRuOnKfoIVZws&key=AIzaSyAf64FepFyUGZd3WFWhZzisswVx2K37RFY" allowfullscreen></iframe>
+      </div>
+
+      <div class="col-sm-6">
+        <form action="form.php" class="contact-form" method="post">
+  
+            <div class="form-group">
+              <input type="text" class="form-control" id="name" name="nm" placeholder="Nombre Completo" required="" autofocus="">
+            </div>
+        
+        
+            <div class="form-group form_left">
+              <input type="email" class="form-control" id="email" name="em" placeholder="Correo electronico" required="">
+            </div>
+        
+          <div class="form-group">
+               <input type="text" class="form-control" id="phone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Teléfono" required="">
+          </div>
+          <div class="form-group">
+          <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Escribenos tus comentarios" required=""></textarea>
+          <br>
+            <button class="btn btn-default btn-send"> <span class="fa fa-external-link"></span> ENVIAR</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="container second-portion">
+  <div class="row">
+        <!-- Boxes de Acoes -->
+      <div class="col-xs-12 col-sm-6 col-lg-3">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fa fa-envelope" aria-hidden="true"></i></div>
+          <div class="info">
+            <h3 class="title">CORREO</h3>
+            <p>
+              <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@hardik.com
+              <br>
+              <br>
+              <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.gondhiya.com
+            </p>
+          
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+      
+        <div class="col-xs-12 col-sm-6 col-lg-3">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fa fa-mobile" aria-hidden="true"></i></div>
+          <div class="info">
+            <h3 class="title">TELEFONO</h3>
+              <p>
+              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-97120 20865
+              <br>
+              <br>
+              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-7567065254 
+            </p>
+            
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
+    </div>
+      
+        <div class="col-xs-12 col-sm-6 col-lg-3">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fa fa-map-marker" aria-hidden="true"></i></div>
+          <div class="info">
+            <h3 class="title">DIRECCION</h3>
+              <p>
+               <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp Office no.33 , 2nd floor , Akshay  Commercial Complex,, Near Swaminarayan Gurukul, Gondal Rd,, Rajkot-360004
+            </p>
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
+    </div>   
+
+    <div class="col-xs-12 col-sm-6 col-lg-3">
+      <div class="box">             
+        <div class="icon">
+          <div class="image"><i class="fa fa-clock-o" aria-hidden="true"></i></div>
+          <div class="info">
+            <h3 class="title">HORARIO</h3>
+              <p>
+               <i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp Office no.33 , 2nd floor , Akshay  Commercial Complex,, Near Swaminarayan Gurukul, Gondal Rd,, Rajkot-360004
+            </p>
+          </div>
+        </div>
+        <div class="space"></div>
+      </div> 
+    </div>        
+    <!-- /Boxes de Acoes -->
+    
+    <!--My Portfolio  dont Copy this -->
+      
   </div>
 </div>
 
-<div class="mapa">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d931.1271109710004!2d-89.5704506708228!3d21.012332499125478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5677385dd8e605%3A0x84f40ebaaf6511e8!2sCalle+20-L+216%2C+Jardines+del+Nte.%2C+97139+M%C3%A9rida%2C+Yuc.!5e0!3m2!1ses-419!2smx!4v1505493959959" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> 
 </div>
-
-<section id="contact" class="content-section text-center">
-        <div class="contact-section">
-            <div class="container">
-              <h2 class="tit-form">Formulario de contacto</h2> <br><br>
-              
-              <div class="row">
-                <div class="col-xs-12 col-md-8 col-md-offset-2 bor">
-                  <form class="form-horizontal" onSubmit="return false">
-                    <div class="form-group">
-                      <label for="exampleInputName2">Nombre completo</label>
-                      <input type="text" class="form-control" id="txtNOMBRE" placeholder="Escribe tu nombre completo">
-                    </div>
-                    <div class="form-group">
-                      <label for="exampleInputEmail2">Correo</label>
-                      <input type="email" class="form-control" id="txtCORREO" placeholder="Escribe tu correo elctrónico">
-                    </div>
-
-                    <div class="form-group">
-                      <label for="exampleInputEmail2">Teléfono</label>
-                      <input type="text" class="form-control" id="txtTELEFONO" placeholder="Escribe tu número teléfonico">
-                    </div>
-
-                    <div class="form-group ">
-                      <label for="exampleInputText">Comentario</label>
-                     <textarea  id="txtCOMENTARIO" class="form-control" placeholder="Escribe tu comentario"></textarea> 
-                    </div>
-
-                     <div id="_AJAX_PRE_"></div>
-                    <button type="submit" class="btn btn-warning btn-outline btn-lg" onclick="sendCORREO()">Enviar Mensaje</button>
-                  </form>
-
-                  <hr>
-                    
-                </div>
-              </div>
-              <h3>Datos de contacto</h3> <br><br>
-                  <div class="row">
-          <div class="col-md-3">
-            <div class="iconos">
-            	<i class="fa fa-street-view fa-4x" aria-hidden="true"></i>
-            </div>
-            <h4>C. 20L #216 por 19 y 19A. Col. Fracc. La Florida, Mérida Yucatán. C.P. 97138</h4>
-            <p></p>
-          </div>
-          <div class="col-md-3">
-            <div class="iconos">
-            	<i class="fa fa-envelope-o fa-4x" aria-hidden="true"></i>
-            </div>
-            <h4>info@grupocomercialkopitl.com</h4>
-            <p></p>
-          </div>
-          <div class="col-md-3">
-            <div class="iconos">
-            	<i class="fa fa-clock-o fa-4x" aria-hidden="true"></i>
-            </div>
-            <h4>Lunes a Viernes de 9 am a 6 pm</h4>
-            <p></p>
-          </div>
-          <div class="col-md-3">
-            <div class="iconos">
-            	<i class="fa fa-phone fa-4x" aria-hidden="true"></i>
-            </div>
-            <h4>PENDIENTE</h4>
-            <p></p>
-          </div>
-        </div>
-            </div>
-        </div>
-      </section>
-
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>

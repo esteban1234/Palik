@@ -55,61 +55,60 @@
                     <div class="bs-five-area bs-radius">
                         <div class="col-md-3 no-padding">
                             <div class="bs-five">
-                                <h6 class="text-uppercase">Free Trial</h6>
+                                <h6 class="text-uppercase">Cotización</h6>
                                 <h1 class="bs-caption"><sup>$</sup>00</h1>
-                                <p>No Credit Cart Needed</p>
+                                <p><b>Mensuales</b></p>
                                 <ul>
-                                    <li><b>25 Free Images</b></li>
-                                    <li>Custom Domain</li>
-                                    <li>24/7 Customer Support</li>
-                                    <li> </li>
+                                    <!-- <li><b>25 Free Images</b></li> -->
+                                    <li>Cuquiera de nuestros servicios</li>
+                                    <br><br><br><br><br><br><br><br><br>
+                                    <!-- <li>24/7 Customer Support</li> -->
                                 </ul>
-                                <a href="https://bootstrapthemes.co" class="btn btn-success btn-round m-top-40">Buy Now</a>  
+                                <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a>  
                             </div>
                         </div>
                         <div class="col-md-3 no-padding">
                             <div class="bs-five active">
-                                <h6 class="text-uppercase">Planet</h6>
-                                <h1 class="bs-caption"><sup>$</sup>49</h1>
-                                <p>No Credit Cart Needed</p>
-
+                                <h6 class="text-uppercase">Persona Fisica</h6>
+                                <h1 class="bs-caption"><sup>$</sup>400</h1>
+                                <p><b>Mensuales</b></p>
                                 <ul>
-                                    <li><b>60 Free Images</b></li>
-                                    <li>Monthly Backups</li>
-                                    <li>Custom Domain</li>
-                                    <li>24/7 Customer Support</li>
+                                    <!-- <li><b>60 Free Images</b></li> -->
+                                    <li>Que cobran por honorarios</li>
+                                    <li>Que cobran por rentas</li>
+                                    <li>Que cobran por actividad empresarial</li>
+                                    <li>Que cobran por salarios con menos de 15 movimientos por mes</li>
                                 </ul>
-                                <a href="https://bootstrapthemes.co" class="btn btn-success btn-round m-top-40">Buy Now</a>  
+                                <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a>  
                             </div>
                         </div>
                         <div class="col-md-3 no-padding">
                             <div class="bs-five">
-                                <h6 class="text-uppercase">Standard</h6>
-                                <h1 class="bs-caption"><sup>$</sup>69</h1>
-                                <p>No Credit Cart Needed</p>
-
+                                <h6 class="text-uppercase">Persona Fisica Plus</h6>
+                                <h1 class="bs-caption"><sup>$</sup>900</h1>
+                                <p><b>Mensuales</b></p>
                                 <ul>
-                                    <li><b>60 Free Images</b></li>
-                                    <li>Monthly Backups</li>
-                                    <li>Custom Domain</li>
-                                    <li>24/7 Customer Support</li>
+                                    <!-- <li><b>60 Free Images</b></li> -->
+                                    <li>Que cobran por honorarios</li>
+                                    <li>Que cobran por rentas</li>
+                                    <li>Que cobran por actividad empresarial</li>
+                                    <li>Que cobran por salarios con menos de 50 movimientos por mes</li>
                                 </ul>
-                                <a href="https://bootstrapthemes.co" class="btn btn-success btn-round m-top-40">Buy Now</a> 
+                                <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a> 
                             </div>
                         </div>
                         <div class="col-md-3 no-padding">
                             <div class="bs-five">
-                                <h6 class="text-uppercase">Business</h6>
-                                <h1 class="bs-caption"><sup>$</sup>89</h1>
-                                <p>No Credit Cart Needed</p>
-
+                                <h6 class="text-uppercase">Persona Moral</h6>
+                                <h1 class="bs-caption"><sup>$</sup>2000</h1>
+                                <p><b>Mensuales</b></p>
                                 <ul>
-                                    <li><b>60 Free Images</b></li>
-                                    <li>Monthly Backups</li>
-                                    <li>Custom Domain</li>
-                                    <li>24/7 Customer Support</li>
+                                    <!-- <li><b>60 Free Images</b></li> -->
+                                    <li>Con menos de 50 movimientos por mes</li>
+                                    <li>Se cobrará $800.00 extras por cada 50 movimientos adicionales al mes</li>
+                                    <br><br><br><br>
                                 </ul>
-                                <a href="https://bootstrapthemes.co" class="btn btn-success btn-round m-top-40">Buy Now</a>  
+                                <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a>  
                             </div>
                         </div>
                     </div>
@@ -140,7 +139,7 @@
         </div>
         <div class="uno">
           <h3 class="text-center">ESTRATEGIA FISCAL</h3>
-          <div class="icono"><i class="fa fa-calculator fa-5x" aria-hidden="true"></i></div>
+          <div class="icono"><i class="fa fa-university fa-5x" aria-hidden="true"></i></div>
         </div>
         <div class="uno">
           <h3 class="text-center">LITIGIO FISCAL</h3>
