@@ -26,7 +26,7 @@
         <h1 style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1> 
         <p class="text-center textob">Dedícate 100% a tu empresa, nosotros resolvemos lo demás. <br>Ofrecemos los siguientes servicios:</p>
       <div style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
-        <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
+        <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
       </div>
       </div>
     </div>

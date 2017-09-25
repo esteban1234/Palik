@@ -24,11 +24,11 @@
 <div class="container animated fadeIn">
 
   <div class="row">
-    <h1 class="header-title"> Contactanos, estamos para servirte</h1>
+    <h1 class="header-title"> Contáctanos, estamos para servirte</h1>
     <hr> <br><br>
     <div class="col-sm-12" id="parent">
       <div class="col-sm-6">
-      <iframe width="100%" height="320px;" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJaY32Qm3KWTkRuOnKfoIVZws&key=AIzaSyAf64FepFyUGZd3WFWhZzisswVx2K37RFY" allowfullscreen></iframe>
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d931.1271109710004!2d-89.5704506708228!3d21.012332499125478!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f5677385dd8e605%3A0x84f40ebaaf6511e8!2sCalle+20-L+216%2C+Jardines+del+Nte.%2C+97139+M%C3%A9rida%2C+Yuc.!5e0!3m2!1ses-419!2smx!4v1505493959959" width="100%" height="320px" frameborder="0" style="border:0" allowfullscreen></iframe>
       </div>
 
       <div class="col-sm-6">
@@ -66,10 +66,10 @@
           <div class="info">
             <h3 class="title">CORREO</h3>
             <p>
-              <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@hardik.com
+              <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp info@administradorapalik.com
               <br>
               <br>
-              <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.gondhiya.com
+              <i class="fa fa-globe" aria-hidden="true"></i> &nbsp www.administradorapalik.com
             </p>
           
           </div>
@@ -85,10 +85,10 @@
           <div class="info">
             <h3 class="title">TELEFONO</h3>
               <p>
-              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp (+91)-97120 20865
+              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp PENDIENTE
+              <!-- <br>
               <br>
-              <br>
-              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-7567065254 
+              <i class="fa fa-mobile" aria-hidden="true"></i> &nbsp  (+91)-7567065254  -->
             </p>
             
           </div>
@@ -104,7 +104,7 @@
           <div class="info">
             <h3 class="title">DIRECCION</h3>
               <p>
-               <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp Office no.33 , 2nd floor , Akshay  Commercial Complex,, Near Swaminarayan Gurukul, Gondal Rd,, Rajkot-360004
+               <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp C. 20L #216 por 19 y 19A. Col. Fracc. La Florida, Mérida Yucatán. C.P. 97138
             </p>
           </div>
         </div>
@@ -119,7 +119,7 @@
           <div class="info">
             <h3 class="title">HORARIO</h3>
               <p>
-               <i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp Office no.33 , 2nd floor , Akshay  Commercial Complex,, Near Swaminarayan Gurukul, Gondal Rd,, Rajkot-360004
+               <i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp Lunes a Viernes de 9 am a 6 pm
             </p>
           </div>
         </div>

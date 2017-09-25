@@ -27,7 +27,7 @@
         
         <p class="text-center textob">Caracterizados por procurar a nuestros clientes un servicio personalizado, <br>confiable y eficaz atendiendo sus necesidades contables,<br> fiscales, administrativas, financieras y de auditoría.</p>
       <div style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
-        <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
+        <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
       </div>
       </div>
     </div>
