@@ -120,6 +120,10 @@
 	 	font-weight: bold;
 	 	padding: 5px 0px;
 	 }
+
+	 .imagen{
+	 	height: 230px;
+	 }
 	/*****************END DISEÑO INDEX*********/
 
 	/*****************DISEÑO NOSOTROS**************/
@@ -848,10 +852,52 @@
 	.bs-five{
 		height: 100% !important;
 	}
+
+	.contenido{
+		width: 100%;
+	}
+
+
+	.sub{
+		width: 100%;
+		height: 100%;
+		text-align: center;
+	}
+
+	.sub li{
+		vertical-align: top;
+	}
+
+	.sub li a{
+		height: 80px !important;
+	}
 }
 
 @media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+
+	.contenido{
+		width: 100%;
+	}
+
+
+	.sub{
+		width: 100%;
+		height: 100%;
+		text-align: center;
+	}
+
+	.sub li{
+		vertical-align: top;
+	}
+
+	.sub li a{
+		height: 80px !important;
+	}
 }
-@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+@media screen and (max-width: 1366px) and (min-width: 1024px) { 
+	.contenido{
+		width: 95%;
+	}
+}
 
 @media screen and (min-width: 1367px) { }
