@@ -22,12 +22,12 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@grupocomercialkopitl.com");
+$mail->addAddress("info@administradorapalik.com");
 
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotización KOPITL";
+$mail->Subject = "Cotización PALIK";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";
