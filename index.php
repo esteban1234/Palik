@@ -15,7 +15,7 @@
     </nav>
     <div class="menu-op">
       <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
-      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+      <!-- <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i> -->
     </div>
   </div>
 </header>
@@ -23,10 +23,10 @@
 <div class="banner">
     <div class="fondo1">
       <div class="wrapper">
-        <h1 style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1>
+        <h1 class="h1-index-pa" style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1>
         
         <p class="text-center textob">OPTIMIZAMOS TU CONTABILIDAD Y AUDITORIAS PARA <br> QUE TÚ NO TENGAS QUE PREOCUPARTE.</p>
-      <div style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
+      <div class="btn-conta-index" style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
         <a class="btn btn-danger btn-outline btn-lg" href="vistas/contacto.php">CONTACTANOS</a>
       </div>
       </div>
@@ -51,9 +51,9 @@
             <div class="container">
             <h1 class="text-center wrap-h2" style="color:#84183B; ">PLANES PALIK</h1>
               <p class="text-center textot">Nuestros servicios están disponibles en tres diferentes planes. Elige el más adecuado para ti.</p><br> <br>
-                <div class="row">
+                <div class="row centrar-conte">
                     <div class="bs-five-area bs-radius">
-                        <div class="col-md-3 no-padding">
+                        <div class="col-xs-12 col-sm-3 col-md-3 no-padding br">
                             <div class="bs-five">
                                 <h6 class="text-uppercase">Cotización</h6>
                                 <h1 class="bs-caption"><sup>$</sup>00</h1>
@@ -67,7 +67,7 @@
                                 <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a>  
                             </div>
                         </div>
-                        <div class="col-md-3 no-padding">
+                        <div class="col-xs-12 col-sm-3 col-md-3 no-padding br">
                             <div class="bs-five active">
                                 <h6 class="text-uppercase">Persona Fisica</h6>
                                 <h1 class="bs-caption"><sup>$</sup>400</h1>
@@ -82,7 +82,7 @@
                                 <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a>  
                             </div>
                         </div>
-                        <div class="col-md-3 no-padding">
+                        <div class="col-xs-12 col-sm-3 col-md-3 no-padding br">
                             <div class="bs-five">
                                 <h6 class="text-uppercase">Persona Fisica Plus</h6>
                                 <h1 class="bs-caption"><sup>$</sup>900</h1>
@@ -97,7 +97,7 @@
                                 <a href="vistas/contacto.php" class="btn btn-success btn-round m-top-40">CONTACTAR</a> 
                             </div>
                         </div>
-                        <div class="col-md-3 no-padding">
+                        <div class="col-xs-12 col-sm-3 col-md-3 no-padding">
                             <div class="bs-five">
                                 <h6 class="text-uppercase">Persona Moral</h6>
                                 <h1 class="bs-caption"><sup>$</sup>2000</h1>

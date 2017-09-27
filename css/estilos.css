@@ -63,6 +63,11 @@ header nav a.selector{
   height: 100px;
   z-index: 100;
 }
+
+.posicion-fija{
+  position: fixed;
+}
+
 .header2 .logo{
   line-height: 100px;
   /*font-size: 30px;*/

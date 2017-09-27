@@ -15,7 +15,7 @@
     </nav>
     <div class="menu-op">
       <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
-      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+      <!-- <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i> -->
     </div>
   </div>
 </header>
@@ -32,24 +32,25 @@
       </div>
 
       <div class="col-sm-6">
-        <form action="form.php" class="contact-form" method="post">
+        <form class="contact-form" onSubmit="return false">
   
             <div class="form-group">
-              <input type="text" class="form-control" id="name" name="nm" placeholder="Nombre Completo" required="" autofocus="">
+              <input type="text" class="form-control" id="txtNOMBRE" name="nm" placeholder="Nombre Completo" required="" autofocus="">
             </div>
         
         
             <div class="form-group form_left">
-              <input type="email" class="form-control" id="email" name="em" placeholder="Correo electronico" required="">
+              <input type="email" class="form-control" id="txtCORREO" name="em" placeholder="Correo electronico" required="">
             </div>
         
           <div class="form-group">
-               <input type="text" class="form-control" id="phone" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Teléfono" required="">
+               <input type="tel" class="form-control" id="txtTELEFONO" onkeypress="return event.charCode >= 48 && event.charCode <= 57" maxlength="10" placeholder="Telefono" required="">
           </div>
           <div class="form-group">
-          <textarea class="form-control textarea-contact" rows="5" id="comment" name="FB" placeholder="Escribenos tus comentarios" required=""></textarea>
+          <textarea class="form-control textarea-contact" rows="5" id="txtCOMENTARIO" name="FB" placeholder="Escribenos tus comentarios" required=""></textarea>
           <br>
-            <button class="btn btn-default btn-send"> <span class="fa fa-external-link"></span> ENVIAR</button>
+          <br><div id="_AJAX_PRE_" ></div><br>
+            <button class="col-xs-12 btn btn-default btn-send" onclick="sendCORREO()"> <span class="fa fa-external-link" ></span> ENVIAR</button>
           </div>
         </form>
       </div>
@@ -96,7 +97,7 @@
         <div class="space"></div>
       </div> 
     </div>
-      
+      <div class="clearfix visible-sm visible-md"></div>
         <div class="col-xs-12 col-sm-6 col-lg-3">
       <div class="box">             
         <div class="icon">

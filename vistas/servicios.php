@@ -15,7 +15,7 @@
     </nav>
     <div class="menu-op">
       <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
-      <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i>
+      <!-- <i class="fa fa-times fa-2x cerrar" aria-hidden="true"></i> -->
     </div>
   </div>
 </header>
@@ -23,7 +23,7 @@
 <div class="banner3">
     <div class="fondo1">
       <div class="wrapper">
-        <h1 style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1> 
+        <h1 class="h1-ser-pa" style="color:#fff; margin-top: 5%;">ADMINISTRADORA PALIK</h1> 
         <p class="text-center textob">Dedícate 100% a tu empresa, nosotros resolvemos lo demás. <br>Ofrecemos los siguientes servicios:</p>
       <div style="text-align: center; margin-top: 5%; margin-bottom: 5%; color: #fff;">
         <a class="btn btn-danger btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
@@ -33,7 +33,7 @@
   </div>
 
 <div class="wrapper contenido">
-    <h1 class="ocultar-border">Servicios</h1>
+    <h1 class="ocultar-border h1-ser">Servicios</h1>
     <!-- <nav class="submenu"> -->
       <ul class="sub">
         <li><a href="#contables">Servicios contables</a></li>
@@ -123,7 +123,7 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/menupegajoso.js"></script>
 <script src="../js/bootstrap.js"></script>
-<script src="../js/menuservicios.js"></script>
+<!-- <script src="../js/menuservicios.js"></script> -->
 <script src="../js/botonarriba.js"></script>
 <script src="../js/main2.js"></script>
 <script src="../js/eskju.jquery.scrollflow.min.js"></script>
